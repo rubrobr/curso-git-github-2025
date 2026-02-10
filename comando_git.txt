@@ -1,0 +1,4 @@
+git ini . cria um repo git na pasta atual
+git status mostra o status do trabalho
+git add nome_nome do arquivo
+git commit -m comit com mensagem
