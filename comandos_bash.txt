@@ -4,3 +4,4 @@ cd
 ls -a
 cat
 rm
+rm - rf
