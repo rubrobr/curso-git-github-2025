@@ -1,2 +1,4 @@
 git checkout -b (nome da branch) no caso cria uma copia da main e cria uma secundaria no caso uma copia da main, para ir para main digite git checkout main o -b e só para criar uma nova branch
 
+git merge no caso "mistura a main com a secundaria ou outra branch"
+
