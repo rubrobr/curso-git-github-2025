@@ -2,3 +2,5 @@ git checkout -b (nome da branch) no caso cria uma copia da main e cria uma secun
 
 git merge no caso "mistura a main com a secundaria ou outra branch" no caso tras as alterações itas nos arquivos ou o arquivo que vc criou na nova branch
 
+git branch -D apaga uma branch
+
