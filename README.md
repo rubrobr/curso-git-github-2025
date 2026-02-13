@@ -70,3 +70,7 @@ git checkout main
 
 git branch -D <nova_branch>
 
+criando o padrão d edesenvolvimento no git
+
+carai
+
